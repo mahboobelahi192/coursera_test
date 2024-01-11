@@ -87,7 +87,7 @@ $ajaxUtils.sendGetRequest(
   allCategoriesUrl,
   buildAndShowHomeHTML,
   true
-);
+  });
 
 
 // *** finish **
